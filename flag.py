@@ -5,7 +5,7 @@ import numpy as np
 import math
 
 img = np.zeros((200, 300, 3), np.uint8)
-img = (16, 41, 222)
+img[:][:] = (16, 41, 222)
 h, w = img.shape[:2]
 
 yellow = (0, 222, 255)
