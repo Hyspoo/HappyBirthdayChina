@@ -1,5 +1,5 @@
 # HappyBirthdayChina
-
+ =
 Python + OpenCV实现标准五星红旗的绘制
 
 ### 国旗长宽比
@@ -23,4 +23,4 @@ Python + OpenCV实现标准五星红旗的绘制
 
 
 
-<img src="./flagRule.jpg" style="margin-left:100px" />
+<img src="./flagRule.jpg" width="450" height="300" />
