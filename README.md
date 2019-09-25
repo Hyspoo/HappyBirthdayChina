@@ -23,4 +23,4 @@ Python + OpenCV实现标准五星红旗的绘制
 
 
 
-<img src="./flagRule.jpg" style="zoom:70%" />
+<img src="./flagRule.jpg" style="margin:50px" />
